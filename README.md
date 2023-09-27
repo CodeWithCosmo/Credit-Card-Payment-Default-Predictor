@@ -1,6 +1,6 @@
 # **`Credit Card Payment Default Prediction Project`**
 
-<img src="https://www.eastwestbank.com/content/dam/ewb-dotcom/reachfurther/newsarticlestore/519/Credit-card-fraud-top.jpg" width="1000" height="500">
+<img src="https://www.bajajfinservmarkets.in/content/dam/bajajfinserv/blogs/wp-content/uploads/2022/01/Credit-Card-Default_Blog-banner-min.png" width="1000" height="500">
 
 ## The Credit Card Payment Default Prediction project is a data-driven solution that aims to predict whether a credit cardholder is likely to default on their payment.
 ## By analyzing various factors such as the customer's demographic information, credit history, payment patterns, and financial behavior, the project uses machine learning algorithms to build predictive models.
