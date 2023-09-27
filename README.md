@@ -7,7 +7,7 @@
 ## These models can assess the creditworthiness of individuals and assign a probability of defaulting on future payments. By identifying high-risk customers, financial institutions can take proactive measures to mitigate potential losses and make informed decisions regarding credit approvals, credit limits, and collection strategies.
 ## Ultimately, the project helps improve risk management and decision-making processes in the credit card industry.
 
-> ## Try it out at [Credit Card Fraud Detector]()
+> ## Try it out at [Credit Card Payment Default Detector]()
 
 * ## Applications Used
 1. [Python 3.8](https://www.python.org/)
